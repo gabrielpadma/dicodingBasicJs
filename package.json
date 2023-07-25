@@ -1,0 +1,13 @@
+{
+  "name": "dicodingbasicjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrKuis.js",
+  "scripts": {
+    "start": "node --experimental-modules ./es6Module/main.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
